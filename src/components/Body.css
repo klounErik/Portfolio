@@ -1,0 +1,25 @@
+.Body {
+  background-color: #d6d1d1;
+  border-radius: 15px;
+  padding: 50px;
+  margin-top: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Aboutme {
+  position: relative;
+  width: 50%;
+  left: 25%;
+  justify-content: center;
+}
+
+hr {
+  width: 50%;
+}
+
+p {
+  letter-spacing: 3px;
+  line-height: 25px;
+}

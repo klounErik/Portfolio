@@ -1,0 +1,25 @@
+.App-header {
+  display: flex;
+  justify-content: center;
+  background-color: #222;
+  min-width: 300;
+  padding: 30px;
+  color: white;
+}
+
+.App-logo {
+  height: 250px;
+  margin: 20px;
+  border-radius: 125px;
+}
+
+#Name {
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px;
+}
+
+#Description {
+  font-family: 'Montserrat', sans-serif;
+  margin: 5px;
+  font-weight: 500;
+}
